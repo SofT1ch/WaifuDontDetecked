@@ -1,2 +1,2 @@
-# WaifuDontDetecked
-A my Python-project!
+<h1>WaifuDontDetected</h1>
+Проект на питоне, для собственной группы ВКонтакте. Планировщик задач, с такиим функционалом:
