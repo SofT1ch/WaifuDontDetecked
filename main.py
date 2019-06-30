@@ -6,7 +6,7 @@ import random
 import os
 import requests
 import time
-import vk
+import vk_api
 
 
 # Константы
